@@ -1,0 +1,9 @@
+=======PHP Email_Send from Form Using PHPMailer======
+
+-->akhane index.php file run korle je input form ase sekhan theke data send korle email a jabe.sathe akta image niye jabe
+
+-->then mail.php file sudu run korlei data email a jabe
+
+akhane email a app password create kore then mail pathano hoise,mailtrap use kora hynai.
+
+***security jnno username,password and Email add kora hynai--just username,password and email add korlei project kaj korbe.
